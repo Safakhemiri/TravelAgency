@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: url('images/main.jpg') no-repeat center ;
+}
+
+.button a {
+    float: right;
+    padding: 20px;
+    font-size: 20px;
+    color: aliceblue;
+    background-color: crimson;
+    border-radius: 3px;
+    text-decoration: none; 
+    
+} .button a:hover {
+    background-color: rgba(39, 95, 201, 0.5);
+}
+
+.button {
+    margin: 20px 20px;
+}
+
+.video {
+    clear: both;
+    text-align: center;
+  
+    
+}
+iframe {
+    
+    margin-top: 50px;
+    padding: 60px;
+    background-color: rgba(240, 248, 255, 0.44);
+     border-radius: 3px;
+    
+    
+}
